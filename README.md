@@ -1,6 +1,6 @@
 # UIC
 
-This is the official code of our paper "Unsupervised Image Composition for Disentanglement, Clustering and Segmentation"
+This is the official code of our paper "Unsupervised Image Composition for Disentanglement, Clustering, and Segmentation"
 
 ------
 
